@@ -3,13 +3,13 @@ GR-Flask is a GNURadio OOT to provide a web interface for flowgraphs like Qt or 
 
 ## Installing
 
-'''
+```
   $ mkdir build
   $ cd build
   $ cmake ../
   $ make
   $ sudo make install
-'''
+```
 
 ### Dependancies
 
